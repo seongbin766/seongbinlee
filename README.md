@@ -1,2 +1,1 @@
-# seongbinlee
- Seongbin Lee's Website
+# seongbin
